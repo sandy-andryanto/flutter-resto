@@ -1,6 +1,6 @@
 /// This file is part of the Sandy Andryanto Resto Application.
 ///
-/// Author:     Sandy Andryanto <sandy.andryanto.blade@gmail.com>
+/// Author:     Sandy Andryanto <sandy.andryanto.official@gmail.com>
 /// Copyright:  2025
 ///
 /// For full copyright and license information,
