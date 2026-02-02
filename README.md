@@ -129,7 +129,7 @@ APP_BACKEND_URL="http://localhost:8000"
 #### 7. Run Application 
 ```shell
 cd frontend
-flutter run -d chrome
+flutter run
 ```
 
 <strong>To login in application, please use these credential : </strong> </br>
@@ -137,7 +137,7 @@ email : admin@administrator.example.com </br>
 password : Qwerty123! </br>
 
 
-#### 8. Access application by entering [https://localhost:59845](https://localhost:59845) in the browser.
+#### 8. Access application with mobile emulator in the browser.
 
 <img height="650" src="https://5an9y4lf0n50.github.io/demo-images/mobile-demo/flutter/login.png" alt="login" />
 <br/>
