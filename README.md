@@ -137,7 +137,7 @@ email : admin@administrator.example.com </br>
 password : Qwerty123! </br>
 
 
-#### 8. Access application with mobile emulator in the browser.
+#### 8. Access application with mobile emulator.
 
 <img height="650" src="https://5an9y4lf0n50.github.io/demo-images/mobile-demo/flutter/login.png" alt="login" />
 <br/>
